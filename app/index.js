@@ -38,3 +38,27 @@ ReactDOM.render(
   <App />,
   document.getElementById("app")
 );
+
+// import React from "react";
+// import ReactDOM from "react-dom";
+// import "./index.css";
+// import Hello from "./components/Hello.js";
+
+// class App extends React.Component {
+
+//   render() {
+//     return (
+//       <div className="container">
+//         <Hello />
+//       </div>
+//     );
+//   }
+// }
+
+// //use component
+// ReactDOM.render(
+//   //React Element;
+//   //Where to render to the Element to
+//   <App />,
+//   document.getElementById("app")
+// );
